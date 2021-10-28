@@ -8,7 +8,7 @@ sections:
       your business. To get started, contact our developers.
     actions:
       - label: Learn More
-        url: /features
+        url: /contact
         style: primary
       - label: Contact Us
         url: /contact
