@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Website that brings customers
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We aim to understand your specific needs and create custome solution.
     actions:
       - label: Learn More
         url: /features
