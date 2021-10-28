@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Melbourne Website design brings customers
     subtitle: >-
-      Understanding your needs and assisting you in growing your business are at
-      the heart of our web design approach. To get started, contact our
-      developers.
+      We do web design by understanding your needs and assisting you in growing
+      your business. To get started, contact our developers.
     actions:
       - label: Learn More
         url: /features
