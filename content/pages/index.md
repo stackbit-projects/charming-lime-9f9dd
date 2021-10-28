@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Website that brings customers
+    title: Melbourne Website design brings customers
     subtitle: >-
       We aim to understand your specific needs and create a custom solution for
       your business.
