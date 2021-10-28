@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Website that brings customers
-    subtitle: We aim to understand your specific needs and create custome solution.
+    subtitle: >-
+      We aim to understand your specific needs and create a custom solution for
+      your business.
     actions:
       - label: Learn More
         url: /features
