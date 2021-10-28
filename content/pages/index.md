@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Melbourne Website design brings customers
     subtitle: >-
-      We aim to understand your specific needs and create a custom solution for
-      your business.
+      We aim to understanding your needs and create a custom solution for your
+      business.
     actions:
       - label: Learn More
         url: /features
