@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Melbourne Website design brings customers
     subtitle: >-
-      We aim to understanding your needs and create a custom web solution that
-      grow your business.
+      Understanding your needs and assisting you in growing your business are at
+      the heart of our web design approach. To get started, contact our
+      developers.
     actions:
       - label: Learn More
         url: /features
