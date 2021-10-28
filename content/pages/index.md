@@ -11,7 +11,7 @@ sections:
         url: /contact
         style: primary
       - label: Contact Us
-        url: /contact
+        url: /contact/features
         style: secondary
     align: left
     image: images/hero.svg
